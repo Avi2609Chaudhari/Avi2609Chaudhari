@@ -1,6 +1,6 @@
 <!-- Banner image -->
 <p align="center">
-  <img src="github-header-image (1).png" alt="Banner" width="65%"/>
+  <img src="github-header-image (1).png" alt="Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Avinash Chaudhari</h1>
