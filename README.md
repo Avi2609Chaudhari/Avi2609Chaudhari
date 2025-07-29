@@ -44,14 +44,5 @@ Highly motivated engineering student with a passion for solving real-world probl
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avi2609Chaudhari&show_icons=true&theme=github_dark" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avi2609Chaudhari&theme=github-dark-blue" alt="streak"/>
-</p>
-
----
-
 *Thanks for visiting my profile! Let’s connect and grow together in tech 🚀*
 
