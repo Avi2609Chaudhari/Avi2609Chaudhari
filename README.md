@@ -4,12 +4,12 @@
 **Avi2609Chaudhari/Avi2609Chaudhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!-- Banner image -->
-<img src="https://your-banner-image-url-here" alt="Banner" width="100%"/>
+<img src="github-header-image (1).png" alt="Banner" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Avinash Chaudhari</h1>
 
 <p align="center">
-🎓 Final Year BTech AIML Student | 🤖 AI & ML Enthusiast | 📊 Data Analyst  
+🎓 BTech AIML Student | 🤖 AI & ML Enthusiast | 📊 Data Analyst  
 </p>
 
 ---
