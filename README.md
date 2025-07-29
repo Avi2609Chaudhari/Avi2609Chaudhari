@@ -19,10 +19,10 @@ I'm an aspiring data professional passionate about **AI**, **Machine Learning**,
 
 ### 💼 Experience
 
-- **Data Analyst Intern – BuildINT** _(Feb 2025 – Present)_
+- **Data Analyst Intern – BuildINT** _(Feb 2025 – June 2025)_
   - Automated reports using **Excel** and **Python**  
   - Identified 10–15% utility savings via data analysis  
-  - Created Power BI dashboards for KPI tracking  
+  - Created Power BI dashboards for KPI tracking 
 
 ---
 
@@ -51,7 +51,8 @@ I'm an aspiring data professional passionate about **AI**, **Machine Learning**,
 ### 📫 Reach Me
 
 - 📧 Email: [chaudhariavi63@gmail.com](mailto:chaudhariavi63@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/avinash-chaudhari-04a476228](https://www.linkedin.com/in/avinash-chaudhari-04a476228/)
+- 🔗 LinkedIn: [linkedin.com/in/avinash-chaudhari-04a476228](https://www.linkedin.com/in/avinash-chaudhari-04a476228/)  
+- 📄 [Resume](https://drive.google.com/file/d/1H1R_mPiUYrMAPT1BmHBxheVYJY0EDjbs/view?usp=drive_link)
 
 ---
 
