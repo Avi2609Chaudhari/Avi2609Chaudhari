@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Avi2609Chaudhari/Avi2609Chaudhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,10 +36,16 @@ Highly motivated engineering student with a passion for solving real-world probl
 
 ---
 
-### 🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,pandas,numpy,scikit-learn,sql,git,vscode,github,powerbi,excel" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/>
+  <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub"/>
 </p>
 
 ---
