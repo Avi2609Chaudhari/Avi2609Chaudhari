@@ -26,14 +26,6 @@ I'm an aspiring data professional passionate about **AI**, **Machine Learning**,
 
 ---
 
-### 💡 Projects
-
-- 🔬 **VisionClean** – Desmoking system using **FFT** (visibility enhancement) + **YOLO** (object detection)
-- 📈 Power BI Reports & Data Analysis Projects (e.g., road accidents, housing prices)  
-- 🤖 ML Models using **scikit-learn**, **OpenCV**, **PyTorch**
-
----
-
 ### 🛠️ Tools & Technologies
 
 <p align="left">
