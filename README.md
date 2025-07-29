@@ -36,6 +36,11 @@ I'm an aspiring data professional passionate about **AI**, **Machine Learning**,
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
   <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="48"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-power-bi.png" alt="Power BI"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel"/>
 </p>
 
 ---
