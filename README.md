@@ -49,7 +49,7 @@ I'm an aspiring data professional passionate about **AI**, **Machine Learning**,
 
 - 📧 Email: [chaudhariavi63@gmail.com](mailto:chaudhariavi63@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/avinash-chaudhari-04a476228](https://www.linkedin.com/in/avinash-chaudhari-04a476228/)  
-- 📄 [Resume]([https://drive.google.com/file/d/1H1R_mPiUYrMAPT1BmHBxheVYJY0EDjbs/view?usp=drive_link](https://drive.google.com/file/d/1Q0kmFQKoIL5sSUizuec0oOvy9_fgn6z9/view?usp=drive_link))
+- 📄 [Resume](https://drive.google.com/file/d/1Q0kmFQKoIL5sSUizuec0oOvy9_fgn6z9/view?usp=drive_link)
 
 ---
 
